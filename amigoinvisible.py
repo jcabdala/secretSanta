@@ -10,6 +10,7 @@ from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 
 from config import chicos, grandes, usermail, passwmail, subjectmail
+#from config_own import chicos, grandes, usermail, passwmail, subjectmail
 
 # send email from python
 # this creates a text email and sends it to an address of your choosing directly from python
